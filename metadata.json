@@ -1,0 +1,6 @@
+{
+  "name": "ASD Support System Research Portal",
+  "description": "Academic research and documentation portal for the AI-Powered Support System for Children with Autism Spectrum Disorder (ASD) in Sri Lanka - Project R26-IT-037.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
